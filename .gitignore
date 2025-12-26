@@ -28,6 +28,9 @@ wheels/
 dist/
 build/
 
+# Large exe files (use GitHub Releases instead)
+*.exe
+
 # VS Code
 .vscode/
 
